@@ -1,0 +1,49 @@
+body{
+	font-family: 'Courier New', monospace;
+	font-size: 15px;
+	margin: 0 auto;
+	background-image: url("bricks.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 1080px;
+}
+
+#img{
+	margin: auto;
+	float: left;
+	max-width: 100%;
+	height: auto;
+	margin-left: 400px;
+	margin-top: 90px;
+	border-radius: 100px;
+}
+
+.table-box{
+	
+	padding-left: 10px; 
+	padding-right: 10px;
+	font-family: 'Courier New', monospace;
+	font-size: 12px;
+	color: #40250F;
+	width:1000px;
+	height:450px;
+	margin: auto;
+	background-color: #FFDFBA;
+	border-radius: 5px;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.para-1{
+	font-family: 'Courier New', monospace;
+	text-align: justify;
+	font-size: 30px;
+	padding-left: 25px;
+	padding-right: 25px;
+	
+}
+.footer{
+	margin-top: 30px;
+	float: left;
+	color: #40250F;
+	font-size: 20px;
+	
+}

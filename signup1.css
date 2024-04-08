@@ -1,0 +1,86 @@
+body{
+	font-family: 'Courier New', monospace;
+	font-size: 15px;
+	margin: 0 auto;
+	background-image: url("coffeebg1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 1080px;
+}
+
+.signup-box{
+	width:360px;
+	height:620px;
+	margin: auto;
+	background-color: rgba(255, 223, 186, 0.8);
+	border-radius: 5px;
+}
+h2{
+	text-align: center;
+	padding-top: 15px;
+}
+h4{
+	text-align:center;
+}
+form{
+	width: 300px;
+	margin-left: 20px;
+}
+
+form-element{
+	display: flex;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+form input{
+	width: 100%;
+	padding: 7px;
+	border:none;
+	border:1px solid gray;
+	border-radius: 10px;
+	outline: none;
+}
+.box{
+	text-align: center;
+}
+
+hr{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.btn-login{
+	text-align: center;
+	width: 320px;
+	height: 35px;
+	border: none;
+	background-color: rgba(101, 70, 70, 0.8);
+	color: #fff;
+	transition:0.3s;
+}
+.btn-login:hover{
+	background-color: rgba(71, 42, 23, 0.8);
+	color:white;
+	transition:0.3s;
+}
+
+p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 13px;
+}
+
+.para-2{
+	margin-top: -30px;
+	margin-left:10px;
+	margin-right:10px;
+	text-align: center;
+	color: #9C3F03;
+	font-size: 15px;
+	
+}
+
+.para-2 a{
+	color: #F94905;
+}
+

@@ -1,0 +1,42 @@
+body{
+	font-family: 'Times New Roman', serif;
+	font-size: 15px;
+	margin: 0 auto;
+	background-color:#FFBC91;
+	background-repeat: no-repeat;
+	background-size: 100% 1080px;
+	
+}
+
+.title{
+	font-family: 'Arial Black', sans-serif;
+
+}
+
+.terms-rectangle{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right:20px;
+	font-family: 'Arial Black', sans-serif;
+	font-size: 15px;
+	width:900px;
+	height:715px;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px;
+}
+
+p{
+	text-align: justify;
+	font-size:13px;
+}
+.chapter{
+	text-align: justify;
+	font-size:13px;
+}
+strong{
+	text-align: justify;
+	font-size:13px;
+}

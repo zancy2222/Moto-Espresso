@@ -1,0 +1,59 @@
+.topnav{
+	background-color: rgba(101, 70, 70, 0.8);
+	border: none;
+	overflow: hidden;
+	transition:0.3s;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px;
+
+}
+
+.topnav a{
+	float:right;
+	color: rgba(248, 247, 243, 0.8);
+	text-align: center;
+	padding: 25px 30px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover{
+	background-color:rgba(255, 223, 186, 0.8);
+	color: rgba(78, 35, 6, 0.8);
+	transition:0.3s;
+}
+
+.topnav a.active{
+	background-color: rgba(255, 223, 186, 0.8);
+	color: rgba(78, 35, 6, 0.8);
+	box-shadow: 0 5px #1D1406;
+	transform: translateY(4px);
+}
+
+.alexa{
+	background-color: rgba(101, 70, 70, 0.8);
+	border: none;
+	overflow: hidden;
+	transition:0.3s;
+}
+
+.alexa a{
+	float:left;
+	color: rgba(248, 247, 243, 0.8);
+	text-align: center;
+	padding: 5px 15px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.alexa a:hover{
+	background-color:rgba(255, 223, 186, 0.8);
+	color: rgba(78, 35, 6, 0.8);
+	transition:0.3s;
+}
+.alexa a.active{
+	background-color: #B8860B;
+	color: cornsilk;
+	box-shadow: 0 5px #1D1406;
+	transform: translateY(4px);
+}

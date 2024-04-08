@@ -1,0 +1,46 @@
+body{
+	font-family: 'Times New Roman', serif;
+	font-size: 15px;
+	margin: 0 auto;
+	background-image: url("coffeebg1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 1080px;
+}
+
+.container{
+	
+	width: 500px;
+	height: 450px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(184, 122, 31,0.6);
+	margin-top: 50px;
+}
+
+input[type="text"],input[type="password"]{
+	font-family:Garamond, serif;
+	margin-top: 30px;
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+}
+
+
+.btn-login{
+	padding: 15px 25px;
+	border: none;
+	padding:16px 32px;
+	background-color: #D98E16;
+	color: #fff;
+	transition:0.3s;
+}
+
+.btn-login:hover{
+	background-color:#E99E2E;
+	color:white;
+	transition:0.3s;
+}
+
