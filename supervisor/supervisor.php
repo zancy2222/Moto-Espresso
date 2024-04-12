@@ -14,7 +14,7 @@
 	</a>
 </div>
 <div class="topnav"><b>
-	<a href="../index.php">Sign Out</a>
+	<a href="../login1.php">Sign Out</a>
 	</b>
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1">

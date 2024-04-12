@@ -16,6 +16,7 @@
     </div>
 	<div class="topnav">
         <b><a href="supervisor.php">BACK</a></b>
+        <b><a href="inventory.php">STOCKS</a></b>
 		<b><a href="#cardsmallg">SODA SERIES</a></b>
 		<b><a href="#cardsmallf">HOT DRINKS</a></b>
 		<b><a href="#cardsmalle">COFFEE</a></b>
